@@ -1,0 +1,20 @@
+{
+  "name": "instagram",
+  "version": "0.3.0",
+  "description": "Instagram growth toolkit: plan the week, write reels, carousels, stories, captions, DMs and comments, humanize drafts, audit what worked, mine viral formats, run Meta ads and ad creative, build growth plans, run recurring loops, produce video, manage brand context, PR, a creator-growth coach and a simulated marketing council.",
+  "author": {
+    "name": "Evgeni"
+  },
+  "keywords": [
+    "instagram",
+    "reels",
+    "content",
+    "social-media",
+    "captions",
+    "ads",
+    "meta-ads",
+    "growth",
+    "pr",
+    "video"
+  ]
+}
