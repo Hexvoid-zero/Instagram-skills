@@ -7,6 +7,9 @@ A Claude and Codex plugin with 24 skills for running an Instagram account: strat
 content, engagement, paid ads, PR and video. Version 0.3.0.
 
 <a href="https://www.instagram.com/hexvoid_zero"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Follow on Instagram" /></a>
+ ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFPL-Analyzer%2Fbadges&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)
+    ![Stars](https://img.shields.io/github/stars/FPL-Analyzer/FPL-Analyzer-kits)
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
 
 <div align="left">  
 
