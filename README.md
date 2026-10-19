@@ -8,7 +8,6 @@ content, engagement, paid ads, PR and video. Version 0.3.0.
 
 <a href="https://www.instagram.com/hexvoid_zero"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Follow on Instagram" /></a>
  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHexvoid-zero/Instagram-skills%2Fbadges&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)
-    ![Stars](https://img.shields.io/github/stars/Hexvoid-zero/Instagram-skills)
     <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
 
 <div align="left">  
@@ -92,3 +91,13 @@ formulas), `ig-human/slop.json`, `ig-profile/rubric.json`.
 - **Ad-creative and video references** were adapted from public marketing-skills
   material. External tools (HeyGen, Veo, Runway, Remotion and similar) change
   quickly, so confirm current features and pricing before relying on them.
+
+  ## Star History
+
+<a href="https://www.star-history.com/?type=date&repos=Source-Design%2FSource-Design">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Source-Design/Source-Design&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Source-Design/Source-Design&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Source-Design/Source-Design&type=date&legend=top-left" />
+ </picture>
+</a>
