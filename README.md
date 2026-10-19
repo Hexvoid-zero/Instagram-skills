@@ -1,3 +1,6 @@
+<div align="center">
+
+
 # Instagram plugin for Claude
 
 A Claude and Codex plugin with 24 skills for running an Instagram account: strategy,
