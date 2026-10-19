@@ -6,6 +6,8 @@
 A Claude and Codex plugin with 24 skills for running an Instagram account: strategy,
 content, engagement, paid ads, PR and video. Version 0.3.0.
 
+<div align="left">  
+
 ## Install
 
 Download or clone this repo, zip the contents of the repo root as
