@@ -94,10 +94,10 @@ formulas), `ig-human/slop.json`, `ig-profile/rubric.json`.
 
   ## Star History
 
-<a href="https://www.star-history.com/?type=date&repos=Source-Design%2FSource-Design">
+<a href="https://www.star-history.com/?type=date&repos=Instagram-skills%2FInstargram-skills">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Source-Design/Source-Design&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Source-Design/Source-Design&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Source-Design/Source-Design&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Hexvoid-zero/Instagram-skills&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Hexvoid-zero/Instagram-skills&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Hexvoid-zero/Instagram-skills&type=date&legend=top-left" />
  </picture>
 </a>
